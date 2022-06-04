@@ -1,0 +1,18 @@
+@import './custom_colors';
+
+.notes{
+    height: calc(100% - 70px);
+    margin-left: 10px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+.bm-menu{
+    background: white;
+    padding-top: 10px;
+}
+
+.list-item{
+    background-color:$custom-grey-light;
+    margin-bottom:10px;
+}
