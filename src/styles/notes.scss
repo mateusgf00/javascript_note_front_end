@@ -16,3 +16,13 @@
     background-color:$custom-grey-light;
     margin-bottom:10px;
 }
+
+.notes-editor{
+    padding: 0;
+    height: calc(100% - 43px);
+    
+
+}
+.quill > .ql-toolbar:first-child {
+    display: none !important;
+  }
